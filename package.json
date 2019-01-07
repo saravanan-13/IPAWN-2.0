@@ -1,0 +1,37 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "A Pen created at CodePen.io. You can find this one at https://codepen.io/ehermanson/pen/KwKWEv.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "Router": "^2.1.0",
+    "assert": "^1.4.1",
+    "async-foreach": "^0.1.3",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "child_process": "^1.0.2",
+    "cryptr": "^2.0.0",
+    "dialog": "^0.3.1",
+    "ejs": "^2.5.7",
+    "events": "^1.1.1",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.1.4",
+    "express-session": "^1.15.6",
+    "fs": "^0.0.1-security",
+    "multer": "^1.3.0",
+    "mv": "^2.1.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.12.1",
+    "path": "^0.12.7",
+    "popups": "^1.1.3",
+    "req-flash": "0.0.3",
+    "session": "^0.1.0",
+    "sys": "0.0.1",
+    "then-busboy": "^1.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
